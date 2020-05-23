@@ -14,14 +14,13 @@
 </p>
 
 <p align="center" style="color: #7159c1;">
-  ❯ <a href="#deps">Dependências</a><br>
-  ❯ <a href="#executing">Como usar</a><br>
-  ❯ <a href="#repo-license">Licença</a>
+  ❯ <a href="#receipt_bibliotecas-utilizadas">Dependências</a><br>
+  ❯ <a href="#question_como-usar">Como usar</a><br>
 </p>
 
 ![Screenshot](https://raw.githubusercontent.com/joaovitors1g/RocketShoes/master/.github/screenshot.png)
 
-## 🧾 Dependências
+## :receipt: Bibliotecas Utilizadas
 
 Nesse projeto foram utilizadas as seguintes tecnologias:
 
@@ -35,11 +34,10 @@ Nesse projeto foram utilizadas as seguintes tecnologias:
 - [Polished](https://polished.js.org/)
 - [React-Icons](https://react-icons.netlify.com/)
 - [styled-components](https://www.styled-components.com/)
-- [Reactotron](https://infinite.red/reactotron)
 - [json-server](https://github.com/typicode/json-server)
 - [React Router v5](https://github.com/ReactTraining/react-router)
 
-## ❓ Como usar
+## :question: Como usar
 
 Para executar essa aplicação você precisará das seguintes ferramentas
 
