@@ -14,8 +14,8 @@
 </p>
 
 <p align="center" style="color: #7159c1;">
-  ❯ <a href="#receipt_bibliotecas-utilizadas">Dependências</a><br>
-  ❯ <a href="#question_como-usar">Como usar</a><br>
+  ❯ <a href="#receipt-bibliotecas-utilizadas">Dependências</a><br>
+  ❯ <a href="#question-como-usar">Como usar</a><br>
 </p>
 
 ![Screenshot](https://raw.githubusercontent.com/joaovitors1g/RocketShoes/master/.github/screenshot.png)
