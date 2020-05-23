@@ -10,7 +10,7 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaovitors1g/RocketShoes.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaovitors1g/RocketShoes.svg">
+  <img alt="Issues number" src="https://img.shields.io/github/issues/joaovitors1g/RocketShoes">
 </p>
 
 <p align="center" style="color: #7159c1;">
